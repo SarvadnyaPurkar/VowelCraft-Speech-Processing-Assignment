@@ -1,0 +1,12 @@
+# Ignore audio files
+*.wav
+
+# Ignore Word documents
+*.docx
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore temporary files
+*.tmp
+*.log
