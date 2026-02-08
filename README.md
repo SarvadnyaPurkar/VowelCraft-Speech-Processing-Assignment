@@ -10,7 +10,7 @@ The assignment is divided into three main parts:
 
 ### 1. Speech Recording and Transcription
 - Recorded five sentences from the Harvard Sentences collection in a quiet environment.
-- Achieved a signal-to-noise ratio (SNR) of over 70 dB, ensuring high-quality recordings.
+- Achieved a signal-to-noise ratio (SNR) of over 70 dB, ensuring high-quality recordings using WADA-SNR tool.
 - Created both **word-level** and **phoneme-level** transcriptions using Praat TextGrid.
 
 ### 2. Acoustic Analysis
